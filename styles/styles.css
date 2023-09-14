@@ -89,6 +89,8 @@ color: #000000;
 
 .project_link {
     margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .project_bracket {
